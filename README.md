@@ -174,7 +174,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PandorasActor0&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
-[![Nelson's Holopin board](https://holopin.io/api/user/board?user=PandorasActor0)](https://holopin.io/@7PandorasActor0)
+[![Nelson's Holopin board](https://holopin.io/api/user/board?user=PandorasActor0)](https://holopin.io/@PandorasActor0)
 	
 </details>
 	
