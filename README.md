@@ -199,5 +199,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/PandorasActor0/PandorasActor0/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	 ![Snake animation](https://github.com/PandorasActor0/PandorasActor0/blob/output/github-contribution-grid-snake.svg)
 </p>
