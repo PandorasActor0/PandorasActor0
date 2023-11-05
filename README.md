@@ -18,7 +18,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: Currently, I am pursuing a [specialization in artificial intelligence](https://www.uao.edu.co/programa/especializacion-en-inteligencia-artificial/) at the [Universidad Autónoma de Occidente](https://www.uao.edu.co/).
 - :nerd_face: I like learning new things..
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is MY RESUME.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
