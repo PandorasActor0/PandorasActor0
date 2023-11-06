@@ -199,4 +199,4 @@
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![Nelson snake gif](https://github.com/PandorasActor0/PandorasActor0/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PandorasActor0/PandorasActor0/blob/output/github-contribution-grid-snake.gif)
