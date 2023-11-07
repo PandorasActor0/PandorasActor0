@@ -150,7 +150,7 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github-readme-stats.vercel.app/api?username=PandorasActor0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact">
 	    <img alt="PandorasActor0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PandorasActor0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PandorasActor0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="PandorasActor0" height="230px"/>
 <br/>
@@ -163,7 +163,7 @@
 
 ----
 	
-[![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PandorasActor0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PandorasActor0&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=PandorasActor0&theme=react-dark)
 
  
 </details>
