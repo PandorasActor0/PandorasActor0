@@ -191,6 +191,9 @@
 	<a href="https://github.com/PandorasActor0/Human-pose-estimation">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=Human-pose-estimation&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/PandorasActor0/Expense-tracker">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=Expense-tracker&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
