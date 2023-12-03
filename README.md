@@ -194,6 +194,9 @@
 	<a href="https://github.com/PandorasActor0/Expense-tracker">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=Expense-tracker&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/PandorasActor0/SpeechScriptResponder">
+ 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=SpeechScriptResponder&theme=tokyonight" alt="GitHub Stats" />
+	</a>
   </p>
 </div>
 </details>
