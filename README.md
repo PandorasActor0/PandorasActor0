@@ -15,9 +15,9 @@
 
 <br><br>
 
-- :school: I am a `Fresh Graduate` at [Mechatronic Engineering](https://www.uao.edu.co/programa/ingenieria-mecatronica/) at [Universidad Autónoma de Occidente](https://www.uao.edu.co/).
+- :school: I am a  [Mechatronic Engineering](https://www.uao.edu.co/programa/ingenieria-mecatronica/) at [Universidad Autónoma de Occidente](https://www.uao.edu.co/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: Currently, I am pursuing a [specialization in artificial intelligence](https://www.uao.edu.co/programa/especializacion-en-inteligencia-artificial/) at the [Universidad Autónoma de Occidente](https://www.uao.edu.co/).
+- :student: Currently, I am a `Fresh Graduate` at [specialization in artificial intelligence](https://www.uao.edu.co/programa/especializacion-en-inteligencia-artificial/) at the [Universidad Autónoma de Occidente](https://www.uao.edu.co/).
 - :nerd_face: I like learning new things..
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Z1Ozbkb9okdIUxcvK_49jv7DL6_Wl35t/view?usp=sharing).
 <br>
